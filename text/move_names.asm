@@ -52,7 +52,7 @@ MoveNames:: ; b0000 (2c:4000)
 	db "$חומצה@"
 	db "$גחלת@"
 	db "$להביור@"
-	db "MIST@"
+	db "$ערפל@"
 	db "$תותח מים@"
 	db "HYDRO PUMP@"
 	db "$גלישה@"
